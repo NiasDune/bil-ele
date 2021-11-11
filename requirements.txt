@@ -1,5 +1,3 @@
 pandas
 streamlit
-difflib
-io
 py-docx
